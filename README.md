@@ -5,14 +5,14 @@ The PayPal API helper that is so cute and easy it will make you forget that PayP
 
 Yeah, I know, I'm not the first one to do this. This is another helper to communicate with PayPal's API in PHP. This class has been designed to be *really* simple, and only supports ExpressCheckouts (what 90% of the developers will actually need).
 
-## Ups
+## Pros
 
 0. Easy to use
 1. Minimum of code required to make people you good money
 2. Free as in free speech
 3. **Comes with a tutorial and examples**
 
-## Downs
+## Cons
 
 This class does not handle shipping costs, taxes, and payments other than ExpressCheckouts. But who cares ? 90% of the developers are looking for simple ExpressCheckouts, as they don't need all the fancy complicated stuff PayPal has to offer.
 
