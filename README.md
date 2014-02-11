@@ -1,7 +1,7 @@
 PayPaws
 =============
 
-The PayPal API helper that is so cute and easy it will make you forget that PayPal's API is inconsistant and terribly programed !
+The PayPal API helper that is so cute and easy it will make you forget that PayPal's API is inconsistent and terribly programed !
 
 Yeah, I know, I'm not the first one to do this. This is another helper to communicate with PayPal's API in PHP. This class has been designed to be *really* simple, and only supports ExpressCheckouts (what 90% of the developers will actually need).
 
